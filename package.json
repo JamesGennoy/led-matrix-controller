@@ -1,0 +1,24 @@
+{
+  "name": "led-matrix-controller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "npm install && node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesGennoy/led-matrix-controller.git"
+  },
+  "author": "James Gennoy",
+  "license": "ISC",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/JamesGennoy/led-matrix-controller/issues"
+  },
+  "homepage": "https://github.com/JamesGennoy/led-matrix-controller#readme",
+  "dependencies": {
+    "onoff": "^1.1.1"
+  }
+}
